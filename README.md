@@ -6,7 +6,7 @@ This a decision-based story game I coded in Python, with minigames spread throug
 
 Tonight marks the first night of the country-wide Christmas holiday, and you can't be any happier. You are robbing the largest jewelry bank in the world, with a single diamond valued at $500,000. So, you decide to infiltrate the back, since it has the least amount of guards watching (you do not wear a mask). What choices will you make? Do you have what it takes to run away with the precious jewel?
 
-![(Spoilers) Steal the Diamond Decision Flow Chart](CYOA-Flow_Chart.png)
+![(Spoilers) Steal the Diamond Decision Flow Chart](CYOA-Flow Chart.png)
 
 > **_NOTE:_** To make "CYOA-MUSIC.py" fully functional, make sure all of the 16 music files are in the "music" folder.
 
