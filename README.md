@@ -1,6 +1,6 @@
 ## Steal the Diamond: a Python Create-Your-Own-Adventure (CYOA) Game! 💎
 
-This a decision-based story game I coded in Python, with minigames spread throughout. Currently runs in the Python terminal (still working on a frontend)!
+This a decision-based story game I coded in Python, with minigames spread throughout. Currently runs in the Python terminal!
 
 > **_NOTE:_** Inspired by Henry Stickmin's "Stealing the Diamond".
 
